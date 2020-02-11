@@ -1,0 +1,41 @@
+[
+    {
+        "id":1,
+        "name":"Guillermo",
+        "lastName":"Barajas",
+        "language":{
+            "language_1":"English",
+            "language_2":"Spanish"
+        },
+        "edad":23,
+        "email":"guillermoba9@gmail.com",
+        "position":"Desarrollador JAVA",
+        "profile":"Desarrollador de diferentes tecnologías tales como JAVA, RPA y diferentes lenguajes, con amplia experiencia en la empresa Emergys. Licenciado en Ingeniería Tecnologías de la Información y Comunicaciones y con certificación en Automation Anywhere v10. Gran capacidad de trabajo en equipo y plenos conocimientos del lenguaje de programación Java. Soy autodidacta ya que la mayor parte de aprendizaje es de manera personal.",
+        "schools":{
+            "college":{
+                "title":"EDUCACIÓN SUPERIOR",
+                "description":"Ingeniería en Tecnologías de la Información y Comunicaciones, Instituto Tecnológico de Estudios Superiores de Zamora, (cursando el 9o semestre). "
+            },
+            "highSchool":{
+                "title":"EDUCACIÓN MEDIA SUPERIOR ",
+                "description":"Técnico en Soporte y Mantenimiento de Equipo de Cómputo, Centro de Bachillerato Tecnológico Industrial y de Servicios N° 52. "
+            }
+        },
+        "experience":{
+            "work_1":{
+                "title":"2017 - 2020 Emergys Mexico S.A. de C.V. ",
+                "description":"Desarrollador JAVA. Desarrollador de RPA"
+            },
+            "work_2":{
+                "title":"2017 - 2017 Ciber de Cómputo. ",
+                "description":"Encargado del mantenimiento preventivo-correctivo al equipo. - Monitorización de la sala. - Administrador de red. "
+            },
+            "work_3":{
+                "title":"2016 - 2017 INEA ",
+                "description":"Procesos de cuestiones administrativas. "
+            }
+        },
+        "skills":"JAVA • Sprint • Struts • JPA • JSP • HTML5 • CSS • JavaScript • SQL • MVC • Smart SVN • GitHub • Git • RPA",
+        "extra":" https://github.com/guille rmoba13 https://certificates.aut omationanywhere.com /f276f765-7e71-4d4a99f9-4018b7e1f393"
+    }
+]
